@@ -2,11 +2,11 @@
 
 
 ## Project description
-This GitHub repository is part of the MA thesis "Space and Narrative in Huxley's and Atwood's Dystopian Fiction" from the University of Helsinki. 
+
 The aim was to combine digital tools and close readings to gain insight into the
 role of space and place in structuring narrative. 
 
-In my thesis, the objective was not to investigate broad trends in literature, but rather, to leverage the digital
+The objective was to leverage the digital
 for assisting in narrative sense-making and in pointing to relevant themes and passages for close
 reading in two novels: Aldous Huxley's _Brave New World_ and Margaret Atwood's _The Handmaid's Tale_. 
 For this purpose, the digital finds two applications: firstly,
@@ -53,8 +53,6 @@ A subsequent analysis with VoyantTools helped to identify thematic
 co-occurrence of space-related nouns shown in Figures 3, 4, and 5.
 The results of the NER analysis can be found in NER_results_LinguisticSpace.xlsx.
 
-## Findings
-Find the thesis via Helda, an open repository of the University of Helsinki: https://helda.helsinki.fi/ 
 
 
 
